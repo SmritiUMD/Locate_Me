@@ -1,0 +1,2 @@
+mybot_description:myrobot_gazebo
+-DCATKIN_DEVEL_PREFIX=/home/smriti_gupta/myrobot_ws/devel -DCMAKE_INSTALL_PREFIX=/home/smriti_gupta/myrobot_ws/install -G Unix Makefiles
